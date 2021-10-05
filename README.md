@@ -1,2 +1,2 @@
 # histories
-Бла бла
+Go to https://rungekut.github.io/histories/
